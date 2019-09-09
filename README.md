@@ -1,0 +1,2 @@
+# CSharpMouseKeybordEvent
+使用.net 2.0封装了win32api中的mouse_event函数和keybd_event函数
